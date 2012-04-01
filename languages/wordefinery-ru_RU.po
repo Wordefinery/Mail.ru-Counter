@@ -1,0 +1,590 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordefinery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-05 19:34+0600\n"
+"PO-Revision-Date: 2012-03-05 19:34+0600\n"
+"Last-Translator: Wordefinery.com <root@wordefinery.com>\n"
+"Language-Team: Wordefinery.com <root@wordefinery.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;wr___;wr__e;wr___ngettext:1,2;wr__n:1,2;wr___ngettext_noop:1,2;wr__n_noop:1,2;wr__c,_nc:4c,1,2;wr__x:1,2c;wr__ex:1,2c;wr__nx:4c,1,2;wr__nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../inc/liveinternetcounter-settings-page.php:5
+#: ../inc/mailrucounter-settings-page.php:5
+#: ../inc/settings-page-tabs.php:5
+#: ../inc/5.2/mailrucounter-settings-page.php:3
+#: ../inc/5.2/settings-page-tabs.php:3
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../inc/liveinternetcounter-settings-page.php:23
+#: ../inc/mailrucounter-settings-page.php:35
+#: ../inc/5.2/mailrucounter-settings-page.php:33
+msgid "Counter"
+msgstr "Счетчик"
+
+#: ../inc/liveinternetcounter-settings-page.php:56
+#: ../inc/mailrucounter-settings-page.php:70
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:33
+#: ../inc/5.2/mailrucounter-settings-page.php:68
+msgid "Left"
+msgstr "Слева"
+
+#: ../inc/liveinternetcounter-settings-page.php:57
+#: ../inc/mailrucounter-settings-page.php:71
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:34
+#: ../inc/5.2/mailrucounter-settings-page.php:69
+msgid "Center"
+msgstr "Центр"
+
+#: ../inc/liveinternetcounter-settings-page.php:58
+#: ../inc/mailrucounter-settings-page.php:72
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:35
+#: ../inc/5.2/mailrucounter-settings-page.php:70
+msgid "Right"
+msgstr "Справа"
+
+#: ../inc/liveinternetcounter-settings-page.php:68
+#: ../inc/mailrucounter-settings-page.php:82
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:115
+#: ../inc/5.2/mailrucounter-settings-page.php:80
+msgid "Mode"
+msgstr "Режим"
+
+#: ../inc/liveinternetcounter-settings-page.php:71
+#: ../inc/mailrucounter-settings-page.php:85
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:118
+#: ../inc/5.2/mailrucounter-settings-page.php:83
+msgid "Widget"
+msgstr "Виджет"
+
+#: ../inc/liveinternetcounter-settings-page.php:73
+#: ../inc/mailrucounter-settings-page.php:87
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:120
+#: ../inc/5.2/mailrucounter-settings-page.php:85
+msgid "Footer"
+msgstr "Подвал"
+
+#: ../inc/liveinternetcounter-settings-page.php:75
+#: ../inc/mailrucounter-settings-page.php:89
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:122
+#: ../inc/5.2/mailrucounter-settings-page.php:87
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: ../inc/liveinternetcounter-settings-page.php:76
+#: ../inc/mailrucounter-settings-page.php:90
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:123
+#: ../inc/5.2/mailrucounter-settings-page.php:88
+msgid "Use this code in your template"
+msgstr "используйте этот код для вставки счетчика в вашу тему"
+
+#: ../inc/liveinternetcounter-settings-page.php:79
+msgid "Page Title in Statistic"
+msgstr "Заголовок страницы в статистике"
+
+#: ../inc/liveinternetcounter-settings-page.php:82
+msgid "Disable"
+msgstr "Отключить"
+
+#: ../inc/liveinternetcounter-settings-page.php:84
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:19
+#: ../inc/yandexmetricacounter-settings-page-shortcodes-tab.php:16
+#: ../inc/yandexmetricacounter-settings-page-shortcodes-tab.php:27
+#: ../inc/yandexmetricacounter-settings-page.php:32
+#: ../inc/yandexmetricacounter-settings-page.php:46
+#: ../inc/yandexmetricacounter-settings-page.php:62
+#: ../inc/yandexmetricacounter-settings-page.php:76
+#: ../inc/yandexmetricacounter-settings-page.php:85
+#: ../inc/yandexmetricacounter-settings-page.php:107
+#: ../inc/yandexmetricacounter-settings-page.php:116
+#: ../inc/yandexmetricacounter-settings-page.php:125
+#: ../inc/yandexmetricacounter-settings-page.php:134
+msgid "Enable"
+msgstr "Включить"
+
+#: ../inc/mailrucounter-settings-page.php:23
+#: ../inc/yandexmetricacounter-settings-page.php:12
+#: ../inc/5.2/mailrucounter-settings-page.php:21
+msgid "Site Identifier"
+msgstr "ID счетчика"
+
+#: ../inc/mailrucounter-settings-page.php:26
+#: ../inc/5.2/mailrucounter-settings-page.php:24
+msgid "Check Site Id"
+msgstr "Проверить ID счетчика"
+
+#: ../inc/mailrucounter-settings-page.php:28
+#: ../inc/5.2/mailrucounter-settings-page.php:26
+msgid "or"
+msgstr "или"
+
+#: ../inc/mailrucounter-settings-page.php:30
+#: ../inc/5.2/mailrucounter-settings-page.php:28
+msgid "Get Site Id"
+msgstr "Получить ID счетчика"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:15
+msgid "Display informer"
+msgstr "Показывать информер"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:20
+msgid "It may take some time for the informer to become active."
+msgstr "Активизация информера может занимать некоторое время."
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:29
+msgid "Customize informer"
+msgstr "Внешний вид"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:45
+msgid "Informer size"
+msgstr "Размер информера"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:55
+msgid "Color"
+msgstr "Цвет"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:58
+msgid "Select a Color"
+msgstr "Выберите цвет"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:63
+msgid "Opacity"
+msgstr "Прозрачность"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:69
+msgid "Gradient"
+msgstr "Градиент"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:75
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:77
+msgid "Black"
+msgstr "Черный"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:79
+msgid "White"
+msgstr "Белый"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:83
+msgid "Arrow color"
+msgstr "Цвет стрелки"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:85
+msgid "Gray"
+msgstr "Серый"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:87
+msgid "Violet"
+msgstr "Фиолетовый"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:91
+msgid "Counter info"
+msgstr "Показатель"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:93
+msgid "Page views"
+msgstr "Просмотры"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:95
+msgid "Visits"
+msgstr "Визиты"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:97
+msgid "Visitors"
+msgstr "Посетители"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:105
+msgid "Informer type"
+msgstr "Тип информера"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:108
+msgid "Simple"
+msgstr "Простой"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:110
+msgid "Advanced"
+msgstr "Расширенный"
+
+#: ../inc/yandexmetricacounter-settings-page-informer-tab.php:111
+msgid "Allows to see the information window with statistics when clicking on the informer."
+msgstr "Позволяет увидеть информационное окно со статистикой при клике на информер на страницах сайта."
+
+#: ../inc/yandexmetricacounter-settings-page-shortcodes-tab.php:12
+msgid "Goals"
+msgstr "Цели"
+
+#: ../inc/yandexmetricacounter-settings-page-shortcodes-tab.php:23
+msgid "A/B Testing"
+msgstr "A/B тестирование"
+
+#: ../inc/yandexmetricacounter-settings-page.php:14
+msgid "<a href=\"http://metrica.yandex.com/add/\" target=\"_blank\">Add counter</a>"
+msgstr "<a href=\"http://metrika.yandex.ru/add/\" target=\"_blank\">Зарегистрировать счетчик</a>"
+
+#: ../inc/yandexmetricacounter-settings-page.php:16
+#, php-format
+msgid "<a href=\"http://metrica.yandex.com/stat/dashboard/?counter_id=%s\" target=\"_blank\">Dashboard</a>"
+msgstr "<a href=\"http://metrika.yandex.ru/stat/dashboard/?counter_id=%s\" target=\"_blank\">Dashboard</a>"
+
+#: ../inc/yandexmetricacounter-settings-page.php:24
+msgid "WebVisor"
+msgstr "Вебвизор"
+
+#: ../inc/yandexmetricacounter-settings-page.php:26
+#, php-format
+msgid "<a href=\"http://metrica.yandex.com/stat/visor/?counter_id=%s\" target=\"_blank\">WebVisor report</a>"
+msgstr "<a href=\"http://metrika.yandex.ru/stat/visor/?counter_id=%s\" target=\"_blank\">Отчет Вебвизора</a>"
+
+#: ../inc/yandexmetricacounter-settings-page.php:33
+msgid "Visitor behavior recording and analysis"
+msgstr "Запись и анализ поведения посетителей сайта"
+
+#: ../inc/yandexmetricacounter-settings-page.php:34
+msgid "<a href=\"http://help.yandex.com/metrika/?id=1121994\" target=\"_blank\" title=\"What is WebVisor\">help</a>"
+msgstr "<a href=\"http://help.yandex.ru/metrika/?id=1116228\" target=\"_blank\" title=\"Что такое Вебвизор\">справка</a>"
+
+#: ../inc/yandexmetricacounter-settings-page.php:38
+msgid "Click map"
+msgstr "Карта кликов"
+
+#: ../inc/yandexmetricacounter-settings-page.php:40
+#, php-format
+msgid "<a href=\"http://metrica.yandex.com/stat/clickmap/?counter_id=%s\" target=\"_blank\">Click map report</a>"
+msgstr "<a href=\"http://metrika.yandex.ru/stat/clickmap/?counter_id=%s\" target=\"_blank\">Отчет Карта кликов</a>"
+
+#: ../inc/yandexmetricacounter-settings-page.php:47
+msgid "Statistics used to create the \"Click map\" report"
+msgstr "Сбор статистики для работы отчёта \"Карта кликов\""
+
+#: ../inc/yandexmetricacounter-settings-page.php:48
+msgid "<a href=\"http://help.yandex.com/metrika/?id=1122003\" target=\"_blank\" title=\"Click map report\">help</a>"
+msgstr "<a href=\"http://help.yandex.ru/metrika/?id=1112943\" target=\"_blank\" title=\"Отчет Карта кликов\">справка</a>"
+
+#: ../inc/yandexmetricacounter-settings-page.php:52
+msgid "Extended track"
+msgstr "Расширенная статистика"
+
+#: ../inc/yandexmetricacounter-settings-page.php:54
+#, php-format
+msgid "<a href=\"http://metrica.yandex.com/stat/content/links/?counter_id=%s\" target=\"_blank\">External links report</a>"
+msgstr "<a href=\"http://metrika.yandex.ru/stat/content/links/?counter_id=%s\" target=\"_blank\">Отчет Внешние ссылки</a>"
+
+#: ../inc/yandexmetricacounter-settings-page.php:55
+#, php-format
+msgid "<a href=\"http://metrica.yandex.com/stat/content/downloads/?counter_id=%s\" target=\"_blank\">File downloads report</a>"
+msgstr "<a href=\"http://metrika.yandex.ru/stat/content/downloads/?counter_id=%s\" target=\"_blank\">Отчет Загрузки файлов</a>"
+
+#: ../inc/yandexmetricacounter-settings-page.php:56
+#, php-format
+msgid "<a href=\"http://metrica.yandex.com/stat/content/shares/?counter_id=%s\" target=\"_blank\">\"Share\" button report</a>"
+msgstr "<a href=\"http://metrika.yandex.ru/stat/content/shares/?counter_id=%s\" target=\"_blank\">Отчет по кнопке \"Поделиться\"</a>"
+
+#: ../inc/yandexmetricacounter-settings-page.php:64
+#, php-format
+msgid "External links [%1$s], file downloads [%2$s] and \"Share\" button report [%3$s]"
+msgstr "Сбор статистики по ссылкам на внешние ресурсы [%1$s], загрузке файлов [%2$s] и кнопке \"Поделиться\"  [%3$s]"
+
+#: ../inc/yandexmetricacounter-settings-page.php:65
+msgid "<a href=\"http://help.yandex.com/metrika/?id=1121988\" target=\"_blank\" title=\"External links report\">help</a>"
+msgstr "<a href=\"http://help.yandex.ru/metrika/?id=1115033\" target=\"_blank\" title=\"Отчет Внешние ссылки\">справка</a>"
+
+#: ../inc/yandexmetricacounter-settings-page.php:66
+msgid "<a href=\"http://help.yandex.com/metrika/?id=1121989\" target=\"_blank\" title=\"File downloads report\">help</a>"
+msgstr "<a href=\"http://help.yandex.ru/metrika/?id=1115034\" target=\"_blank\" title=\"Отчет Загрузки файлов\">справка</a>"
+
+#: ../inc/yandexmetricacounter-settings-page.php:67
+msgid "<a href=\"http://help.yandex.com/metrika/?id=1121987\" target=\"_blank\" title=\"Share button report\">help</a>"
+msgstr "<a href=\"http://help.yandex.ru/metrika/?id=1116052\" target=\"_blank\" title=\"Отчет по кнопке Поделиться\">справка</a>"
+
+#: ../inc/yandexmetricacounter-settings-page.php:72
+msgid "Accurate bounce rate"
+msgstr "Точный показатель отказов"
+
+#: ../inc/yandexmetricacounter-settings-page.php:77
+msgid "Any visit where a user only views one page and spends less than 15 seconds on it will be counted as a bounce"
+msgstr "Отказом будет считаться посещение, в течение которого пользователь был на одной странице и посвятил ей менее 15 секунд"
+
+#: ../inc/yandexmetricacounter-settings-page.php:81
+msgid "Hash tracking"
+msgstr "Отслеживание хеша"
+
+#: ../inc/yandexmetricacounter-settings-page.php:86
+msgid "Hash tracking in the browser address window; applied to AJAXed sites"
+msgstr "Отслеживание хеша в адресной строке браузера; применяется для AJAX-сайтов"
+
+#: ../inc/yandexmetricacounter-settings-page.php:90
+msgid "Visit parameters"
+msgstr "Параметры визитов"
+
+#: ../inc/yandexmetricacounter-settings-page.php:93
+#, php-format
+msgid "<a href=\"http://metrica.yandex.com/stat/content/user_vars/?counter_id=%s\" target=\"_blank\">Visit parameters report</a>"
+msgstr "<a href=\"http://metrika.yandex.ru/stat/content/user_vars/?counter_id=%s\" target=\"_blank\">Отчет Параметры визитов</a>"
+
+#: ../inc/yandexmetricacounter-settings-page.php:97
+msgid "Send statistics data to create Visit parameters reports"
+msgstr "Отсылать статистику для создания отчётов на основе параметров визитов"
+
+#: ../inc/yandexmetricacounter-settings-page.php:98
+msgid "<a href=\"http://help.yandex.com/metrika/?id=1121990\" target=\"_blank\" title=\"Visit parameters report\">help</a>"
+msgstr "<a href=\"http://help.yandex.ru/metrika/?id=1115035\" target=\"_blank\" title=\"Отчет Параметры визитов\">справка</a>"
+
+#: ../inc/yandexmetricacounter-settings-page.php:103
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+#: ../inc/yandexmetricacounter-settings-page.php:108
+msgid "Send full taxonomy (tags, categories, and custom taxonomies) of single post or page"
+msgstr "Отсылать полную таксономию отдельной записи или страницы (категории, теги и прочее)"
+
+#: ../inc/yandexmetricacounter-settings-page.php:112
+msgid "Custom field"
+msgstr "Произвольное поле"
+
+#: ../inc/yandexmetricacounter-settings-page.php:117
+msgid "Send value of <code>metrica</code> custom field"
+msgstr "Отсылать значение произвольного поля <code>metrika</code>"
+
+#: ../inc/yandexmetricacounter-settings-page.php:121
+msgid "Post data"
+msgstr "Данные страницы"
+
+#: ../inc/yandexmetricacounter-settings-page.php:126
+msgid "Send ID, type and status of single post or page"
+msgstr "Отсылать ID, тип и статус отдельной записи (или страницы)"
+
+#: ../inc/yandexmetricacounter-settings-page.php:130
+msgid "User data"
+msgstr "Данные пользователя"
+
+#: ../inc/yandexmetricacounter-settings-page.php:134
+msgid "disabled by default"
+msgstr "по умолчанию отключено"
+
+#: ../inc/yandexmetricacounter-settings-page.php:135
+msgid "Send user name, ID and role"
+msgstr "Отсылать имя, ID и роль текущего пользователя"
+
+#: ../inc/5.2/yandexmetricacounter-settings-page-informer-tab.php:113
+msgid "Require WordPress 2.8 or greater"
+msgstr "Нужен WordPress 2.8 или старше"
+
+#: ../lib/LiveinternetCounter.php:22
+#: ../lib/5.2/LiveinternetCounter.php:13
+msgid "Wordefinery LiveInternet Counter"
+msgstr "Wordefinery LiveInternet Counter"
+
+#: ../lib/LiveinternetCounter.php:73
+msgid "LiveInternet Counter"
+msgstr "Счетчик LiveInternet"
+
+#: ../lib/MailruCounter.php:22
+#: ../lib/5.2/MailruCounter.php:20
+msgid "Wordefinery Mail.ru Counter"
+msgstr "Wordefinery Mail.ru Counter"
+
+#: ../lib/MailruCounter.php:47
+#: ../lib/YandexmetricaCounter.php:71
+#: ../lib/5.2/MailruCounter.php:45
+#: ../lib/5.2/YandexmetricaCounter.php:72
+#, php-format
+msgid "set site identifier on <a href=\"%1$s\">plugin settings page</a>."
+msgstr "заполните ID счетчика на <a href=\"%1$s\">странице настроек плагина</a>."
+
+#: ../lib/MailruCounter.php:88
+#: ../lib/5.2/MailruCounter.php:86
+msgid "Mail.ru Counter"
+msgstr "Счетчик Mail.ru"
+
+#: ../lib/MailruCounter.php:118
+#: ../lib/MailruCounter.php:121
+#: ../lib/MailruCounter.php:129
+#: ../lib/MailruCounter.php:146
+#: ../lib/MailruCounter.php:149
+#: ../lib/MailruCounter.php:162
+#: ../lib/5.2/MailruCounter.php:116
+#: ../lib/5.2/MailruCounter.php:119
+#: ../lib/5.2/MailruCounter.php:127
+#: ../lib/5.2/MailruCounter.php:144
+#: ../lib/5.2/MailruCounter.php:147
+#: ../lib/5.2/MailruCounter.php:160
+msgid "Error"
+msgstr "Ошибка"
+
+#: ../lib/MailruCounter.php:124
+#: ../lib/5.2/MailruCounter.php:122
+#, php-format
+msgid "URL <code>%1$s</code> not registered."
+msgstr "Счетчик с URL <code>%1$s</code> не зарегистрирован."
+
+#: ../lib/MailruCounter.php:126
+#: ../lib/MailruCounter.php:154
+#: ../lib/MailruCounter.php:159
+#: ../lib/5.2/MailruCounter.php:124
+#: ../lib/5.2/MailruCounter.php:152
+#: ../lib/5.2/MailruCounter.php:157
+msgid "<a href=\"http://top.mail.ru/add\" target=\"_blank\">Register Counter</a>."
+msgstr "<a href=\"http://top.mail.ru/add\" target=\"_blank\">Зарегистрировать счетчик</a>."
+
+#: ../lib/MailruCounter.php:141
+#: ../lib/5.2/MailruCounter.php:139
+#, php-format
+msgid "Registered URL: <code>%1$s</code>"
+msgstr "Счетчик зарегистрирован на URL <code>%1$s</code>"
+
+#: ../lib/MailruCounter.php:152
+#: ../lib/5.2/MailruCounter.php:150
+msgid "Invalid Site Identifier."
+msgstr "Неверный ID счетчика."
+
+#: ../lib/MailruCounter.php:157
+#: ../lib/5.2/MailruCounter.php:155
+#, php-format
+msgid "Site identifier <code>%1$s</code> not registered."
+msgstr "Счетчик с ID <code>%1$s</code> не зарегистрирован."
+
+#: ../lib/MailruCounter.php:251
+#: ../lib/5.2/MailruCounter.php:249
+msgid "Please enter a valid site identifier."
+msgstr "Пожалуйста, введите правильный ID счетчика."
+
+#: ../lib/MailruCounter.php:255
+#: ../lib/5.2/MailruCounter.php:253
+#, php-format
+msgid "Site identifier <code>%1$s</code> not registered. Please enter a valid site identifier."
+msgstr "Счетчик с ID <code>%1$s</code> не зарегистрирован. Пожалуйста, введите правильный ID счетчика."
+
+#: ../lib/MailruCounter.php:257
+#: ../lib/5.2/MailruCounter.php:255
+msgid "Site identifier validation failure."
+msgstr "Ошибка проверки ID счетчика."
+
+#: ../lib/MailruCounter.php:266
+#: ../lib/5.2/MailruCounter.php:264
+#, php-format
+msgid "Site identifier <code>%1$s</code> registered to domain <code>%2$s</code>. This site domain <code>%3$s</code>."
+msgstr "Счетчик с ID <code>%1$s</code> зарегистрирован на домен <code>%2$s</code>. Домен этого сайта <code>%3$s</code>."
+
+#: ../lib/Wordefinery.php:205
+msgid ": DB init error"
+msgstr ": DB init error"
+
+#: ../lib/Wordefinery.php:279
+msgid "require PHP version 5.3 or greater"
+msgstr "require PHP version 5.3 or greater"
+
+#: ../lib/Wordefinery.php:284
+msgid "require PHP version 5.2 or greater"
+msgstr "require PHP version 5.2 or greater"
+
+#: ../lib/Wordefinery.php:289
+msgid "require WordPress version 3.3 or greater"
+msgstr "require WordPress version 3.3 or greater"
+
+#: ../lib/Wordefinery.php:294
+msgid "require WordPress version 3.2 or greater"
+msgstr "require WordPress version 3.2 or greater"
+
+#: ../lib/Wordefinery.php:299
+msgid "require WordPress version 3.1 or greater"
+msgstr "require WordPress version 3.1 or greater"
+
+#: ../lib/Wordefinery.php:304
+msgid "require WordPress version 3.0 or greater"
+msgstr "require WordPress version 3.0 or greater"
+
+#: ../lib/Wordefinery.php:309
+msgid "require WordPress version 2.9 or greater"
+msgstr "require WordPress version 2.9 or greater"
+
+#: ../lib/Wordefinery.php:314
+msgid "require WordPress version 2.8 or greater"
+msgstr "require WordPress version 2.8 or greater"
+
+#: ../lib/Wordefinery.php:321
+msgid "require WordPress version 2.7 or greater"
+msgstr "require WordPress version 2.7 or greater"
+
+#: ../lib/YandexmetricaCounter.php:17
+#: ../lib/5.2/YandexmetricaCounter.php:15
+msgid "Wordefinery Yandex.Metrica Counter"
+msgstr "Wordefinery Yandex.Metrica Counter"
+
+#: ../lib/YandexmetricaCounter.php:101
+#, php-format
+msgid "Invalid Site Identifier <code>%1$s</code>"
+msgstr "Неверный ID счетчика <code>%1$s</code>"
+
+#: ../lib/YandexmetricaCounter.php:117
+#: ../lib/5.2/YandexmetricaCounter.php:118
+msgid "Yandex.Metrica Counter"
+msgstr "Счетчик Яндекс.Метрики"
+
+#: ../lib/YandexmetricaCounter.php:156
+#: ../lib/5.2/YandexmetricaCounter.php:157
+msgid "Informer"
+msgstr "Информер"
+
+#: ../lib/YandexmetricaCounter.php:202
+#: ../lib/5.2/YandexmetricaCounter.php:203
+msgid "http://metrica.yandex.com/stat/"
+msgstr "http://metrika.yandex.ru/stat/"
+
+#: ../lib/YandexmetricaCounter.php:204
+#: ../lib/5.2/YandexmetricaCounter.php:205
+msgid "Yandex.Metrica"
+msgstr "Яндекс.Метрика"
+
+#: ../lib/YandexmetricaCounter.php:204
+#: ../lib/5.2/YandexmetricaCounter.php:205
+msgid "Yandex.Metrica: data for today (page views)"
+msgstr "Яндекс.Метрика: данные за сегодня (просмотры)"
+
+#: ../lib/YandexmetricaCounter.php:205
+#: ../lib/5.2/YandexmetricaCounter.php:206
+msgctxt "metrica.lang"
+msgid "en"
+msgstr "ru"
+
+#: ../lib/5.2/YandexmetricaCounter.php:213
+msgid "en|metrica.lang"
+msgstr "ru"
+
+#: ../lib/5.2/wp-widgets/MailruCounterWidget.php:8
+msgid "Rating@Mail.ru Counter"
+msgstr "Счетчик Mail.ru "
+
+#: ../lib/5.2/wp-widgets/MailruCounterWidget.php:10
+msgid "Rating@Mail.ru Counter Widget"
+msgstr "Виджет счетчика Mail.ru"
+
+#: ../lib/5.2/wp-widgets/MailruCounterWidget.php:40
+#: ../lib/5.2/wp-widgets/YandexmetricaCounterWidget.php:38
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../lib/5.2/wp-widgets/YandexmetricaCounterWidget.php:10
+msgid "Yandex.Metrica Counter Widget"
+msgstr "Виджет счетчика Яндекс.Метрики"
+
+#: ../lib/wp-widgets/LiveinternetCounterWidget.php:10
+msgid "LiveInternet.ru Counter"
+msgstr "Счетчик LiveInternet.ru"
+
+#: ../lib/wp-widgets/LiveinternetCounterWidget.php:12
+msgid "LiveInternet.ru Counter Widget"
+msgstr "Виджет счетчика LiveInternet.ru"
+
